@@ -1,7 +1,8 @@
 ## About this project
-This is a website for yoga teaching courses online with live classes all across the world.
+This is just to improve my love for web development.
+I'm attempting to make a full functioning website to sell courses online.
 
- ```AIM - Make this website user friendly ```
+ ``` This is an upcoming website for my mom's yoga classes ```
 
 ## Authors
 [Harshita100](https://github.com/Harshita100)
