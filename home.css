@@ -1,0 +1,39 @@
+.home{
+    background-image:linear-gradient(rgba(56, 72, 24, 0.393), rgba(56, 72, 24, 0.393), rgba(56, 72, 24, 0.393)), url(image/viewphoto.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: center center;
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: beige;
+    font-family: 'Playfair Display', serif;
+}
+
+.home h1{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2%;
+}
+
+.home h2{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2%;
+}
+
+.home h4{
+    background: linear-gradient(#4f4646);
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    padding: 2%;
+}
+
+.home p{
+    color: #fff;
+    text-align: center;
+    font-size: xx-large;
+}

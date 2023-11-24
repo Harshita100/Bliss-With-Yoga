@@ -1,0 +1,15 @@
+.aboutus h1{
+    text-align: center;
+    background-color: #2a4901;
+    color: azure;
+    padding: 2%;
+    margin-top: 0px;
+    font-family: 'Playfair Display', serif;
+}
+
+.aboutus h3{
+    text-align: center;
+    background-color: #2a4901;
+    color: white;
+    padding: 2%;    
+}

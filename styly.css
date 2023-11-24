@@ -1,46 +1,23 @@
-*{
+@import url("navigation.css");
+@import url("home.css");
+@import url("bton.css");
+@import url("aboutus.css");
+@import url("footer.css");
+
+* {
+    box-sizing: border-box;
     margin :0;
     padding : 0;
     font-family: 'Playfair Display', serif;
+    font-family: 'Oswald', sans-serif;
+    scroll-behavior: smooth;
+    transition: 1s;
+    /* overflow: hidden; */
+    scrollbar-color: #2a4901 #2a4901;
 }
-
-.nav {
-    width:100%;
-    text-align: center;
-    justify-content: center;
-    background-color: #2a4901;
-    position:fixed;
-    top:0; 
-    height: 10%;
-    padding:0.3%;
-    text-decoration: none;
-  }
-.nav-items a{
-    text-decoration: none;
-    color: #fff;
-    padding: 0 1.5rem;
-}
-  
-.nav-items a:hover {
-    text-decoration: underline;
-    color: #fff;
-}  
 
 a,
 a:visited,
 a:active{
   text-decoration: none;
 }
-
-book{
-    background-color: #fff;
-    color: #2a4901;
-    padding: 0.4%;
-    border-radius: 7px;
-}
-
-book a:hover {
-    text-decoration:none;
-    color: #fff;
-    background-color: #2a4901;
-}  
