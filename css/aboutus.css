@@ -1,15 +1,26 @@
 .aboutus h1{
     text-align: center;
-    background-color: #2a4901;
-    color: azure;
+    background-color: #78866a;
+    color: white;
     padding: 2%;
     margin-top: 0px;
     font-family: 'Playfair Display', serif;
+    font-size: 5rem;
 }
 
 .aboutus h3{
     text-align: center;
-    background-color: #2a4901;
+    background-color: #78866a;
     color: white;
     padding: 2%;    
+}
+
+.course{
+    background-image:linear-gradient(rgba(45, 72, 24, 0.463), rgba(45, 72, 24, 0.463), rgba(45, 72, 24, 0.463))  url(image/plants.jpg);
+    color: #fff;
+    height: 400px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+
 }
