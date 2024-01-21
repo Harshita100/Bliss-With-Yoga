@@ -1,15 +1,16 @@
 .main{
-    font-size: 20px;
+    margin-top: 10px;
+    font-size: 15px;
     text-align: center;
-    color: #fff;
-    background-color: #2a4901;
-    height: 150px;
+    color: #78866a;
+    background-color: #fff;
+    height: 50px;
     padding: 1%;
 }
 
 .copywrite{
     font-size: 13px;
-    color: #2a4901;
+    color: #78866a;
     background-color: #fff;
     padding: 10px;
 }

@@ -1,4 +1,4 @@
-.nav {
+nav {
     width:100%;
     display: inline-flex;
     background-color: #2a4901;
@@ -7,22 +7,22 @@
     text-decoration: none;
   }
 
-.nav-items{
+nav{
     width: 100%;
     text-align: center;
+    display: inline-flex;
+    justify-content: center;
     background-color:#2a4901;
+    position: relative;
+    text-align: center;
+    padding: 0.2rem;
 }
 
 .nav-items a{
     font-family: 'Playfair Display', serif;
-    display: inline-flex;
-    justify-content: space-around;
-    justify-content: center;
-    text-align: center;
-    position:relative;
     text-decoration: none;
     color: #fff;
-    padding: 0 1rem;
+    padding: 1rem;
     padding-top: 0.7%;
 }
   
