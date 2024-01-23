@@ -8,6 +8,7 @@
     box-sizing: border-box;
     margin :0;
     padding : 0;
+    display: block;
     font-family: 'Playfair Display', serif;
     font-family: 'Oswald', sans-serif;
     scroll-behavior: smooth;

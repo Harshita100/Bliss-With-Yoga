@@ -1,19 +1,17 @@
 .bton{
     background-color: #fff;
     color: #2a4901;
-    padding: 5px;
     border: none;
-    border-radius: 7px;
-    display: inline;
+    border-radius: 3px;
+    /* display: inline; */
+    padding: 0.2rem;
+    font-size: large;
     flex: none;
 }
 
 .bton:hover {
-    transition: 1s;
-}  
-
-.bton:hover::after{
-    text-decoration:none;
+    transition: 0.1s;
     color: #fff;
-    background: var(#2a4901);
- }
+    background: #2a4901;
+
+}  
