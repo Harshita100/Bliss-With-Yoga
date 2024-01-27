@@ -2,29 +2,31 @@ nav{
     width: 100%;
     text-align: center;
     justify-content: center;
-    background-color:#2a4901;
+    background-color:rgba(0, 0, 0, 0);
     position: fixed;
-    text-align: center;
-    display: inline-flex;
+    text-align: end;
     top: 0; 
     text-decoration: none;
-    z-index: 10;
-    /* padding: 0.1rem; */
+    /* font-weight: bold; */
 }
 
 .nav-items a{
     font-family: 'Playfair Display', serif;
     display: inline-flex;
     text-decoration: none;
-    color: #fff;
-    padding: 3px 15px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image:url(image/cosmos4.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: transparent;
+    padding: 3px 12px;
     /* padding-top: 1.7%; */
 }
   
 .nav-items a:hover {
     font-family: 'Playfair Display', serif;
     text-decoration: none;
-    color: #fff;
     font-size:large;
 }  
 
@@ -41,4 +43,8 @@ a:active{
     margin-top: 0.25rem;
     opacity: 200;
     scroll-behavior: smooth;
+}
+
+button.bton{
+    color: #fff;
 }

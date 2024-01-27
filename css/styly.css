@@ -8,13 +8,10 @@
     box-sizing: border-box;
     margin :0;
     padding : 0;
-    display: inline-block;
     font-family: 'Playfair Display', serif;
     font-family: 'Oswald', sans-serif;
     scroll-behavior: smooth;
     transition: 1s;
-    /* overflow: hidden; */
-    scrollbar-color: #2a4901 #2a4901;
 }
 
 .box{
