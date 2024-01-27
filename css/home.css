@@ -1,0 +1,46 @@
+.home{
+    background-color: #cfcfcf;
+    background-image:url(image/cosmos4.jpg);
+    background-size: 50%;
+    height: 35rem;
+    width: 100%;
+    display: grid;
+    background-repeat: no-repeat;
+    font-family: 'Playfair Display', serif;
+}
+
+#main-content{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 33rem;
+    align-items: center;
+    font-size: 11rem;
+    padding: 5px;
+}
+
+.second-half{
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image:url(image/cosmos4.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: transparent;
+    z-index: 10;
+
+}
+
+.first-half{
+    color: #cfcfcf;
+
+}
+
+
+.home h4 {
+    color: #fff;
+    text-wrap: wrap;
+    justify-content: center;
+    font-size: 3rem;
+    padding: 2%;
+}
+

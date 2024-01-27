@@ -1,0 +1,22 @@
+button.bton{
+    background-image:url(image/cosmos4.jpg);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    /* display: inline; */
+    padding: 0.2rem;
+    font-size: large;
+    flex: none;
+}
+
+.bton:hover {
+    transition: 0.1s;
+    color: #fff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image:url(image/cosmos4.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: transparent;
+
+}  

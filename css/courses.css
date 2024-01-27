@@ -1,0 +1,8 @@
+.course{
+    background-image:linear-gradient(rgba(45, 72, 24, 0.463), rgba(45, 72, 24, 0.463), rgba(45, 72, 24, 0.463))  url(image/plants.jpg);
+    color: #fff;
+    height: 400px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+}

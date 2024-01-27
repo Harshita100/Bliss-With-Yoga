@@ -1,0 +1,26 @@
+.main{
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: #78866a;
+    background-color: #fff;
+    height: 50px;
+    padding: 1%;
+}
+
+.copywrite{
+    font-size: 13px;
+    color: #78866a;
+    background-color: #fff;
+    padding: 10px;
+}
+
+a,
+a:visited,
+a:active{
+  text-decoration: none;
+}
+
+a{
+    color: #fff;
+}
