@@ -2,11 +2,12 @@
     background-color: #cfcfcf;
     background-image:url(image/cosmos4.jpg);
     background-size: 50%;
-    height: 35rem;
+    height: 40rem;
     width: 100%;
     display: grid;
     background-repeat: no-repeat;
     font-family: 'Playfair Display', serif;
+    z-index: 3;
 }
 
 #main-content{
@@ -17,6 +18,7 @@
     align-items: center;
     font-size: 11rem;
     padding: 5px;
+    z-index: 7;
 }
 
 .second-half{
@@ -36,11 +38,63 @@
 }
 
 
-.home h4 {
+.Overlay-Content1{
     color: #fff;
-    text-wrap: wrap;
-    justify-content: center;
-    font-size: 3rem;
-    padding: 2%;
+    background-color: rgba(88, 94, 86, 0.450);
+    width: 43%;
+    height: 15%;
+    padding: 1%;
+    border: 1px solid rgba(88, 94, 86, 0.450);
+    border-radius: 10px;
+    position: absolute;
+    top: 3.5rem;
+    left: 30rem;
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    z-index: 5;
+
+}
+
+.changes{
+    color: #398542;
+    font-size: 2.5rem;
+    font-family:monospace;
+}
+
+.Overlay-Content2{
+    color: #fff;
+    background-color: rgba(88, 94, 86, 0.200);
+    width: 30%;
+    height: 25%;
+    padding: 1%;
+    border: 1px solid rgba(88, 94, 86, 0.200);
+    border-radius: 10px;
+    position: absolute;
+    top: 23rem;
+    left: 55rem;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    z-index: 5;
+
+}
+
+.Overlay-Content3{
+    color: #fff;
+    background-color: rgba(88, 94, 86, 0.594);
+    width: 40%;
+    height: 25%;
+    padding: 1%;
+    border: 1px solid rgba(88, 94, 86, 0.594);
+    border-radius: 10px;
+    position: absolute;
+    top: 20rem;
+    left: 4rem;
+    font-size: 1.4rem;
+    font-family: 'Playfair Display', serif;
+    z-index: 5;
+}
+
+.Overlay-Content3 h4{
+    text-align: right;
 }
 
