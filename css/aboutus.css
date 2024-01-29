@@ -4,24 +4,27 @@
     width: auto;
     height: 40rem;
     border-color: #fff;
+    margin-top: 1px;
     display: block;
 }
 
 .aboutus h1{
     color: #fff;
-    font-size: 2rem;
+    font-size: 4.5rem;
     font-style: bold;
     text-align: center;
     width: 100%;
+    display: inline;
+    background-size: 30%;
 }
 
 
 .Content{
-    top: 2rem;
     color: #fff;
     padding: 1rem;
     width: 50%;
     height: 90%;
+    background-size: 50%;
     background-color: rgba(86, 81, 81, 0.605);
     border: 1px solid rgba(88, 94, 86, 0.436);
     border-radius: 30px;
@@ -29,15 +32,28 @@
     font-size: 1.4rem;
     font-family: 'Playfair Display', serif;
     display: block;
-    left: 48%;
+    left: 45%;
     align-items: center;
+    z-index: 2;
 }
 
+.cotnent2 {
+    color: #fff;
+    background-color: #d9b1b4;
+    position: relative;
+    display: inline;
+    padding: 10rem;
+    top: 15rem;
+    left: 4rem;
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+}
 
 .certi{
     padding: 1px;
     margin-top: 1px;
-    background-image:   url(image/plants.jpg);
+    background-image:url(image/plants.jpg);
 }
 
 .certi h1{
