@@ -32,4 +32,3 @@ document.addEventListener('DOMContentLoaded', function () {
   spanSecondHalf.classList.add('second-half');
   textContainer.appendChild(spanSecondHalf);
 });
-
