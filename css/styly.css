@@ -3,6 +3,7 @@
 @import url("bton.css");
 @import url("aboutme.css");
 @import url("footer.css");
+@import url("review.css");
 
 * {
     box-sizing: border-box;
