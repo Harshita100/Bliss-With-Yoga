@@ -1,7 +1,7 @@
 # Check this page out at 
 ```https://harshita100.github.io/Bliss-With-Yoga/Main.html```
 <br>
-<h1> Feel free to give me your feedback!</h1>
+<h2> Feel free to give me your feedback!</h2>
 <br>
 
 # About this project
