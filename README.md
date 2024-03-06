@@ -1,4 +1,4 @@
-# align Check this page out at  ```https://harshita100.github.io/Bliss-With-Yoga/Main.html```
+# Check this page out at  ```https://harshita100.github.io/Bliss-With-Yoga/Main.html```
 <br>
 <h6>Feel free to give me your feedback!
 <br>
